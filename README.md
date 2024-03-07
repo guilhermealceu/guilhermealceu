@@ -6,13 +6,13 @@
 
 - 👨‍💻 All of my projects are available at [https://dillprofile.netlify.app/](https://dillprofile.netlify.app/)
 
-- 📝 I regularly write articles on [[https://medium.com/@mailtoguilhermealceu](https://medium.com/@mailtoguilhermealceu)
+- 📝 I regularly write articles on [https://medium.com/@mailtoguilhermealceu](https://medium.com/@guilhermealceu)
 
-- 💬 Ask me about **JS, ReactJS, and CSS frameworks**
+- 💬 Ask me about **JS, Velo, and websites**
 
-- 📫 How to reach me **mailtoguilhermealceu@hotmail.com**
+- 📫 How to reach me **guilhermealceu@hotmail.com**
 
-- 📄 Know about my experiences [[My Site]].(https://bit.ly/439w1uF)
+- 📄 Know about my experiences [My Site].(https://bit.ly/439w1uF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
