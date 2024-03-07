@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Guilherme Dill</h1>
-<h3 align="center">A sincere programmer who lives in Brazil</h3>
+<h3 align="center">A sincere programmer who lives in Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermealceu&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermealceu"/> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://dillprofile.netlify.app/](https://dillprofile.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@mailtoguilhermealceu](https://medium.com/@guilhermealceu)
+- 📝 I regularly write articles on [https://medium.com/@guilhermealceu](https://medium.com/@guilhermealceu)
 
 - 💬 Ask me about **JS, Velo, and websites**
 
