@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@guilhermealceu](https://medium.com/@guilhermealceu)
 
-- 💬 Ask me about **JS, Velo, and others**
+- 💬 Ask me about **WPF, XAML, C#, .NetFramework, and others**
 
 - 📫 How to reach me **guilhermealceu@hotmail.com**
 
