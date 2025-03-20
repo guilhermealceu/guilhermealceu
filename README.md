@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermealceu&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermealceu"/> </p>
 
 
-- 👨‍💻 All of my projects are available at my Website https://bit.ly/439w1uF
+- 👨‍💻 All of my projects is not available
 
 - 📝 I regularly write articles on [https://medium.com/@guilhermealceu](https://medium.com/@guilhermealceu)
 
