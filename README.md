@@ -21,10 +21,6 @@
 </p>
 
 <br>
-<h3 align="left">My Websites:</h3>
-<p align="left">
-<a href="https://www.isekaianimes.com/" target="blank"><img align="center" src="https://static.wixstatic.com/media/11cb05_db982f8e5563438783313008ec92549c%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/11cb05_db982f8e5563438783313008ec92549c%7Emv2.png" alt="https://www.isekaianimes.com/" height="40" width="40" /></a>
-<a href="https://dilldesignlab.wixsite.com/dill-tecnologias" target="blank"><img align="center" src="https://img-wixmp-a9a8500ac7c5cd8136e17898.wixmp.com/11cb051e-f08a-4ed3-8f91-4e6c1e2a55f1/1682000447299/TESTE%203.png" alt="https://dilldesignlab.wixsite.com/dill-tecnologias" height="30" width="90" /></a>
 </p>
 
 <br>
@@ -60,6 +56,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=guilhermealceu&layout=compact&theme=flat&column=4&row=1)
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermealceu&" alt="guilhermealceu" /></p>
 <br>
-<h3 align="left">Support:</h3>
-<p><a href="https://livepix.gg/guilligamer"> <img align="left" src="https://pbs.twimg.com/profile_images/1499159563081244672/tWvzZWKI_400x400.png" height="50" width="50" alt="Doar" /></a></p><br><br>
 
