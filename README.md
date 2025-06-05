@@ -6,11 +6,11 @@
   <tr>
     <td align="center">
       <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/pfsense-2.0.png?raw=true" width="300" alt="pfSense Project" />
-      <p><strong>pfSense Network Firewall</strong></p>
+      <p><strong>pfSense 2.0</strong></p>
     </td>
     <td align="center">
       <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/glpi-2.0.png?raw=true" width="300" alt="GLPI Project" />
-      <p><strong>GLPI IT Asset Management</strong></p>
+      <p><strong>GLPI 2.0</strong></p>
     </td>
   </tr>
 </table>
@@ -83,11 +83,11 @@
 
   <!-- Segurança, infraestrutura e virtualização -->
   <img src="https://www.vectorlogo.zone/logos/symantec/symantec-icon.svg" alt="Symantec" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" alt="Proxmox" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/ahmadawais/pfSense-dark/master/pfSense-logo.png" alt="pfSense" width="40" height="40" />
+  <img src="https://img.icons8.com/color/512/proxmox.png" alt="Proxmox" width="40" height="40" />
+  <img src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" alt="pfSense" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/virtual-machine.png" alt="Virtual Machines" width="40" height="40" />
-  <img src="https://www.glpi-project.org/wp-content/uploads/2022/06/favicon-glpi.png" alt="GLPI" width="40" height="40" />
-  <img src="https://seeklogo.com/images/A/acronis-logo-869B195F27-seeklogo.com.png" alt="Acronis" width="40" height="40" />
+  <img src="https://wiki.setic.ro.gov.br/banco_de_imagens/icons/glpi.png" alt="GLPI" width="40" height="40" />
+  <img src="https://images.seeklogo.com/logo-png/30/2/acronis-logo-png_seeklogo-302348.png" alt="Acronis" width="40" height="40" />
 </p>
 
 ---
