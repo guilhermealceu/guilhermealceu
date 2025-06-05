@@ -87,7 +87,9 @@
   <img src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" alt="pfSense" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/virtual-machine.png" alt="Virtual Machines" width="40" height="40" />
   <img src="https://wiki.setic.ro.gov.br/banco_de_imagens/icons/glpi.png" alt="GLPI" width="40" height="40" />
-  <img src="https://images.seeklogo.com/logo-png/30/2/acronis-logo-png_seeklogo-302348.png" alt="Acronis" width="40" height="40" />
+  <img src="https://verticle.cfd/6640cd28f51f13175e577c05/664e0064d13f745f00ec6754_82b3e7cc-6549-5d23-86d5-d25ad63e62f6.svg" alt="Acronis" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/7043/7043658.png" alt="Mais" width="40" height="40" />
 </p>
 
 ---
