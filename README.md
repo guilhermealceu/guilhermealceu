@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Guilherme Dill</h1>
 <h3 align="center">A passionate and dedicated developer from Brazil</h3>
-<h3> My new Projects<h3>
- <p align="center">
-  <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/pfsense-2.0.png?raw=true" width="600" alt="pfSense Project" />
-</p>
-<p align="center">
-  <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/glpi-2.0.png?raw=true" width="600" alt="GLPI Project" />
-</p>
+<h3 align="center">🚀 My Recent Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/pfsense-2.0.png?raw=true" width="300" alt="pfSense Project" />
+      <p><strong>pfSense Network Firewall</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/glpi-2.0.png?raw=true" width="300" alt="GLPI Project" />
+      <p><strong>GLPI IT Asset Management</strong></p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guilhermealceu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -49,24 +57,37 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
+  <!-- Linguagens e frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+
+  <!-- Banco de dados e APIs -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+
+  <!-- Cloud, Analytics e DevOps -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="Zeplin" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/symantec/symantec-icon.svg" alt="Symantec" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="40" height="40" />
+
+  <!-- Ferramentas de desenvolvimento e design -->
+  <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="Zeplin" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40" />
   <img src="https://shoonia.gallerycdn.vsassets.io/extensions/shoonia/vscode-corvid/4.0.0/1641410585841/Microsoft.VisualStudio.Services.Icons.Default" alt="Velo by Wix" width="40" height="40"/>
+
+  <!-- Segurança, infraestrutura e virtualização -->
+  <img src="https://www.vectorlogo.zone/logos/symantec/symantec-icon.svg" alt="Symantec" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" alt="Proxmox" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/ahmadawais/pfSense-dark/master/pfSense-logo.png" alt="pfSense" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/virtual-machine.png" alt="Virtual Machines" width="40" height="40" />
+  <img src="https://www.glpi-project.org/wp-content/uploads/2022/06/favicon-glpi.png" alt="GLPI" width="40" height="40" />
+  <img src="https://seeklogo.com/images/A/acronis-logo-869B195F27-seeklogo.com.png" alt="Acronis" width="40" height="40" />
 </p>
 
 ---
