@@ -4,6 +4,10 @@
 
 <table align="center">
   <tr>
+     <td align="center">
+      <img src="https://github.com/guilhermealceu/Steins-Tracker/blob/main/public/imgs/Dashboard-v2.png?raw=true" width="300" alt="Steins;Tracker Project" />
+      <p><strong>Steins;Tracker</strong></p>
+    </td>
     <td align="center">
       <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/pfsense-2.0.png?raw=true" width="300" alt="pfSense Project" />
       <p><strong>pfSense 2.0</strong></p>
