@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
      <td align="center">
-      <img src="https://github.com/guilhermealceu/Steins-Tracker/blob/main/public/imgs/Dashboard-v2.png?raw=true" width="300" alt="Steins;Tracker Project" />
+      <img src="https://github.com/guilhermealceu/steins-tracker-pro/blob/main/SteinsTracker.png?raw=true" width="300" alt="Steins;Tracker Project" />
       <p><strong>Steins;Tracker</strong></p>
     </td>
     <td align="center">
@@ -25,10 +25,8 @@
 
 ---
 
-- 👨‍💻 I’m currently working on projects involving **WPF, C#, .NET Framework, JavaScript**, and more.
-- 📝 I regularly publish articles on [Medium](https://medium.com/@guilhermealceu)
-- 💬 Ask me about **WPF, XAML, .NET, AppDiscord, JavaScript**, and related technologies.
-- 📫 Reach me at **guilhermealceu@hotmail.com**
+- 👨‍💻 I'm currently working on a game tracking project.
+- 📫 Contact me at **guilhermealceu@hotmail.com**
 
 ---
 
