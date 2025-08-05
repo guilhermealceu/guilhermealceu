@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Guilherme Dill</h1>
-<h3 align="center">💡 Infraestrutura, Segurança e Desenvolvimento — direto do Brasil 🇧🇷</h3>
+<h3 align="center">💡 Infraestrutura, Segurança e Desenvolvimento — direto do Brasil</h3>
 <h4 align="center">Construindo soluções práticas com paixão e tecnologia</h4>
 
 ---
@@ -10,15 +10,19 @@
   <tr>
     <td align="center">
       <img src="https://github.com/guilhermealceu/steins-tracker-pro/blob/main/SteinsTracker.png?raw=true" width="300" alt="Steins;Tracker Project" />
-      <p><strong>🎮 Steins;Tracker</strong><br><em>Game tracker com monitoramento local, estatísticas e dashboard interativo</em></p>
+      <p><strong>Steins;Tracker</strong><br><em>Game tracker com monitoramento local, estatísticas e dashboard interativo</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/guilhermealceu/Nav-Gation/blob/main/NavGation.png?raw=true" width="300" alt="Nav;Gation Project" />
+      <p><strong>Nav;Gation</strong><br><em>Navegador simples e rápido com futuras integrações ao Steins;Tracker e Isekai;Tracker</em></p>
     </td>
     <td align="center">
       <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/pfsense-2.0.png?raw=true" width="300" alt="pfSense Project" />
-      <p><strong>🔐 pfSense 2.0</strong><br><em>Customização e automações para ambientes seguros e performáticos</em></p>
+      <p><strong>pfSense 2.0</strong><br><em>Customização e automações para ambientes seguros e performáticos</em></p>
     </td>
     <td align="center">
       <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/glpi-2.0.png?raw=true" width="300" alt="GLPI Project" />
-      <p><strong>📋 GLPI 2.0</strong><br><em>Gestão de ativos, suporte técnico e CMDB com visual moderno</em></p>
+      <p><strong>GLPI 2.0</strong><br><em>Gestão de ativos, suporte técnico e CMDB com visual moderno</em></p>
     </td>
   </tr>
 </table>
