@@ -1,6 +1,7 @@
-<h1 align="center">👨‍💻 Guilherme Dill</h1>
-<h3 align="center">💡 Infraestrutura, Segurança e Desenvolvimento — direto do Brasil</h3>
-<h4 align="center">Construindo soluções práticas com paixão e tecnologia</h4>
+<h1 align="center">Guilherme Dill</h1>
+<h3 align="center">Infraestrutura, Segurança e Desenvolvimento</h3>
+<h4 align="left">Meu hobby é construir coisas que normalmente não faço no dia a dia! Então venha conhecer mais sobre mim e meus projetos!</h4>
+Acesse meu hub de projetos! https://rune.discloud.app/
 
 ---
 
@@ -8,21 +9,29 @@
 
 <table align="center">
   <tr>
+     <td align="center">
+      <img src="https://rune.discloud.app/logos/linkys-logo.png" width="100" alt="Linkys" />
+      <p><strong>Linkys</strong><br><em>Linkys unifica monitoramento, automação e operações em um só painel.</em></p>
+    </td>
     <td align="center">
-      <img src="https://github.com/guilhermealceu/steins-tracker-pro/blob/main/SteinsTracker.png?raw=true" width="300" alt="Steins;Tracker Project" />
+      <img src="https://rune.discloud.app/logos/steinstracker-logo.png" width="100" alt="Steins;Tracker Project" />
       <p><strong>Steins;Tracker</strong><br><em>Game tracker com monitoramento local, estatísticas e dashboard interativo</em></p>
     </td>
     <td align="center">
-      <img src="https://github.com/guilhermealceu/Nav-Gation/blob/main/NavGation.png?raw=true" width="300" alt="Nav;Gation Project" />
+      <img src="https://rune.discloud.app/logos/isekaitracker-logo.png" width="100" alt="Isekai;Tracker" />
+      <p><strong>Isekai;Tracker</strong><br><em>O IsekaiTracker lembra automaticamente onde você parou de assistir seus animes, sem complicação e sem criar conta.</em></p>
+    </td>
+    <td align="center">
+      <img src="https://rune.discloud.app/logos/navgation.png" width="100" alt="Nav;Gation Project" />
       <p><strong>Nav;Gation</strong><br><em>Navegador simples e rápido com futuras integrações ao Steins;Tracker e Isekai;Tracker</em></p>
     </td>
     <td align="center">
-      <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/pfsense-2.0.png?raw=true" width="300" alt="pfSense Project" />
+      <img src="https://rune.discloud.app/logos/pfsense.png" width="100" alt="pfSense Project" />
       <p><strong>pfSense 2.0</strong><br><em>Customização e automações para ambientes seguros e performáticos</em></p>
     </td>
     <td align="center">
-      <img src="https://github.com/guilhermealceu/guilhermealceu/blob/main/glpi-2.0.png?raw=true" width="300" alt="GLPI Project" />
-      <p><strong>GLPI 2.0</strong><br><em>Gestão de ativos, suporte técnico e CMDB com visual moderno</em></p>
+      <img src="https://rune.discloud.app/logos/ic_launcher_round.webp" width="100" alt="GLPI Project" />
+      <p><strong>Nixie</strong><br><em>Assistente pessoal inteligente integra múltiplos serviços e dispositivos, trazendo automação e interatividade.</em></p>
     </td>
   </tr>
 </table>
