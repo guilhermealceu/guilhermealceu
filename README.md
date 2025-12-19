@@ -9,32 +9,64 @@ Acesse meu hub de projetos! https://rune.discloud.app/
 
 <table align="center">
   <tr>
-     <td align="center">
+    <td align="center">
       <img src="https://rune.discloud.app/logos/linkys-logo.png" width="100" alt="Linkys" />
-      <p><strong>Linkys</strong><br><em>Linkys unifica monitoramento, automação e operações em um só painel.</em></p>
+      <p>
+        <a href="https://rune.discloud.app/linkys-page.html" target="_blank" style="text-decoration:none;">
+          <strong>Linkys</strong>
+        </a><br>
+        <em>Linkys unifica monitoramento, automação e operações em um só painel.</em>
+      </p>
     </td>
     <td align="center">
       <img src="https://rune.discloud.app/logos/steinstracker-logo.png" width="100" alt="Steins;Tracker Project" />
-      <p><strong>Steins;Tracker</strong><br><em>Game tracker com monitoramento local, estatísticas e dashboard interativo</em></p>
+      <p>
+        <a href="https://steinsweb.discloud.app" target="_blank" style="text-decoration:none;">
+          <strong>Steins;Tracker</strong>
+        </a><br>
+        <em>Game tracker com monitoramento local, estatísticas e dashboard interativo</em>
+      </p>
     </td>
     <td align="center">
       <img src="https://rune.discloud.app/logos/isekaitracker-logo.png" width="100" alt="Isekai;Tracker" />
-      <p><strong>Isekai;Tracker</strong><br><em>O IsekaiTracker lembra automaticamente onde você parou de assistir seus animes, sem complicação e sem criar conta.</em></p>
+      <p>
+        <a href="https://rune.discloud.app/isekaitracker-page.html" target="_blank" style="text-decoration:none;">
+          <strong>Isekai;Tracker</strong>
+        </a><br>
+        <em>O IsekaiTracker lembra automaticamente onde você parou de assistir seus animes, sem complicação e sem criar conta.</em>
+      </p>
     </td>
     <td align="center">
       <img src="https://rune.discloud.app/logos/navgation.png" width="100" alt="Nav;Gation Project" />
-      <p><strong>Nav;Gation</strong><br><em>Navegador simples e rápido com futuras integrações ao Steins;Tracker e Isekai;Tracker</em></p>
+      <p>
+        <a href="https://rune.discloud.app/navigation-page.html" target="_blank" style="text-decoration:none;">
+          <strong>Nav;Gation</strong>
+        </a><br>
+        <em>Navegador simples e rápido com futuras integrações ao Steins;Tracker e Isekai;Tracker</em>
+      </p>
     </td>
     <td align="center">
       <img src="https://rune.discloud.app/logos/ic_launcher_round.webp" width="100" alt="Nixie Project" />
-      <p><strong>Nixie</strong><br><em>Assistente pessoal inteligente integra múltiplos serviços e dispositivos, trazendo automação e interatividade.</em></p>
+      <p>
+        <a href="https://rune.discloud.app/nixie-page.html" target="_blank" style="text-decoration:none;">
+          <strong>Nixie</strong>
+        </a><br>
+        <em>Assistente pessoal inteligente integra múltiplos serviços e dispositivos, trazendo automação e interatividade.</em>
+      </p>
     </td>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/159/159862.png" width="100" alt="Count;Tem Project" />
-      <p><strong>Count;Tem</strong><br><em>Count;Tem é um aplicativo para registrar e consultar transações financeiras. </em></p>
+      <p>
+        <a href="https://github.com/guilhermealceu/counttem" target="_blank" style="text-decoration:none;">
+          <strong>Count;Tem</strong>
+        </a><br>
+        <em>Count;Tem é um aplicativo para registrar e consultar transações financeiras.</em>
+      </p>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
