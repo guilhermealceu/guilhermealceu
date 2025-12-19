@@ -26,12 +26,12 @@ Acesse meu hub de projetos! https://rune.discloud.app/
       <p><strong>Nav;Gation</strong><br><em>Navegador simples e rápido com futuras integrações ao Steins;Tracker e Isekai;Tracker</em></p>
     </td>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/pfsense.png" width="100" alt="pfSense Project" />
-      <p><strong>pfSense 2.0</strong><br><em>Customização e automações para ambientes seguros e performáticos</em></p>
+      <img src="https://rune.discloud.app/logos/ic_launcher_round.webp" width="100" alt="Nixie Project" />
+      <p><strong>Nixie</strong><br><em>Assistente pessoal inteligente integra múltiplos serviços e dispositivos, trazendo automação e interatividade.</em></p>
     </td>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/ic_launcher_round.webp" width="100" alt="GLPI Project" />
-      <p><strong>Nixie</strong><br><em>Assistente pessoal inteligente integra múltiplos serviços e dispositivos, trazendo automação e interatividade.</em></p>
+      <img src="https://cdn-icons-png.flaticon.com/512/159/159862.png" width="100" alt="Count;Tem Project" />
+      <p><strong>Count;Tem</strong><br><em>Count;Tem é um aplicativo para registrar e consultar transações financeiras. </em></p>
     </td>
   </tr>
 </table>
@@ -39,10 +39,10 @@ Acesse meu hub de projetos! https://rune.discloud.app/
 ---
 
 ### ✉️ Contato
-📫 **Email:** guilhermealceu@hotmail.com  
+💬 **RuneChat:** [https://rune.discloud.app/contact-page.html](https://rune.discloud.app/contact-page.html)  
 🔗 **LinkedIn:** [linkedin.com/in/guilhermealceu](https://linkedin.com/in/guilhermealceu)  
-📸 **Instagram:** [@guille_dill](https://www.instagram.com/guille_dill/)  
-✍️ **Medium:** [@guilhermealceu](https://medium.com/@guilhermealceu)
+📸 **Instagram:** [@guille_dill](https://www.instagram.com/guille_dill/)
+
 
 ---
 
@@ -50,8 +50,6 @@ Acesse meu hub de projetos! https://rune.discloud.app/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealceu&layout=compact&theme=transparent" alt="Top Languages" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermealceu&theme=flat&column=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -64,9 +62,10 @@ Acesse meu hub de projetos! https://rune.discloud.app/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt506h_P4fgTygJkUEhoJq0ixR6yRCyaqlKw&s" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40"/>
 </p>
 
 #### ☁️ Cloud, DevOps e BI
