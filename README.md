@@ -75,15 +75,6 @@ Acesse meu hub de projetos! https://rune.discloud.app/
 🔗 **LinkedIn:** [linkedin.com/in/guilhermealceu](https://linkedin.com/in/guilhermealceu)  
 📸 **Instagram:** [@guille_dill](https://www.instagram.com/guille_dill/)
 
-
----
-
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealceu&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🛠️ Ferramentas e Tecnologias
