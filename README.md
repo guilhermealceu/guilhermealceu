@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Dill</h1>
-<h3 align="center">Infraestrutura, Segurança e Desenvolvimento</h3>
-<h4 align="left">Meu hobby é construir coisas que normalmente não faço no dia a dia! Então venha conhecer mais sobre mim e meus projetos!</h4>
-Acesse meu hub de projetos! https://rune.discloud.app/
+<h3 align="center">Analista de Infraestrutura (N3) | Arquiteto de Soluções | Orquestrador de IA</h3>
+<h4 align="left">Sou um profissional de TI com mais de 10 anos de experiência, atuando com foco em Infraestrutura Corporativa (N3), para expandir minhas fronteiras tecnológicas além do ambiente corporativo tradicional, criei a RUNE Projects www.runeprojects.com.br, meu laboratório independente de Pesquisa e Desenvolvimento (P&D). Nele, atuo como um Arquiteto de Soluções e Heavy User de IA, idealizando e orquestrando produtos digitais completos. Utilizo IAs generativas locais como copilotos para estruturar o código de aplicações focadas em alta performance, privacidade (Local-First) e design imersivo.
+</h4>
 
 ---
 
@@ -19,6 +19,15 @@ Acesse meu hub de projetos! https://rune.discloud.app/
       </p>
     </td>
     <td align="center">
+      <img src="https://runestorage.up.railway.app/uploads/logos/1773707013895-663398229.png" width="100" alt="Count;Tem Project" />
+      <p>
+        <a href="https://finanflow2026.up.railway.app" target="_blank" style="text-decoration:none;">
+          <strong>FinanFlow2026</strong>
+        </a><br>
+        <em>Gestão financeira pessoal focada em faturas e patrimônio. Desenvolvido para visão macro e estratégica.</em>
+      </p>
+    </td>
+    <td align="center">
       <img src="https://rune.discloud.app/logos/steinstracker-logo.png" width="100" alt="Steins;Tracker Project" />
       <p>
         <a href="https://steinsweb.discloud.app" target="_blank" style="text-decoration:none;">
@@ -30,37 +39,28 @@ Acesse meu hub de projetos! https://rune.discloud.app/
     <td align="center">
       <img src="https://rune.discloud.app/logos/isekaitracker-logo.png" width="100" alt="Isekai;Tracker" />
       <p>
-        <a href="https://rune.discloud.app/isekaitracker-page.html" target="_blank" style="text-decoration:none;">
+        <a href="https://isekaitracker.up.railway.app/" target="_blank" style="text-decoration:none;">
           <strong>Isekai;Tracker</strong>
         </a><br>
-        <em>O IsekaiTracker lembra automaticamente onde você parou de assistir seus animes, sem complicação e sem criar conta.</em>
+        <em>Nunca mais se perca em qual episódio você parou. O Isekai Tracker monitora automaticamente seu progresso.</em>
       </p>
     </td>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/navgation.png" width="100" alt="Nav;Gation Project" />
+      <img src="https://runestorage.up.railway.app/uploads/logos/1772405083373-865194841.png" width="100" alt="Nav;Gation Project" />
       <p>
         <a href="https://rune.discloud.app/navigation-page.html" target="_blank" style="text-decoration:none;">
-          <strong>Nav;Gation</strong>
+          <strong>RuneStoryStudio</strong>
         </a><br>
-        <em>Navegador simples e rápido com futuras integrações ao Steins;Tracker e Isekai;Tracker</em>
+        <em>Ferramenta poderosa para criadores que desejam organizar, desenvolver e publicar suas histórias.</em>
       </p>
     </td>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/ic_launcher_round.webp" width="100" alt="Nixie Project" />
+      <img src="https://runestorage.up.railway.app/uploads/logos/1773348091113-913887085.png" width="100" alt="Nixie Project" />
       <p>
         <a href="https://rune.discloud.app/nixie-page.html" target="_blank" style="text-decoration:none;">
-          <strong>Nixie</strong>
+          <strong>NxBeats;Project</strong>
         </a><br>
-        <em>Assistente pessoal inteligente integra múltiplos serviços e dispositivos, trazendo automação e interatividade.</em>
-      </p>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/159/159862.png" width="100" alt="Count;Tem Project" />
-      <p>
-        <a href="https://github.com/guilhermealceu/counttem" target="_blank" style="text-decoration:none;">
-          <strong>Count;Tem</strong>
-        </a><br>
-        <em>Count;Tem é um aplicativo para registrar e consultar transações financeiras.</em>
+        <em>Rhythm game que utiliza análise de áudio neural para transformar qualquer música em uma fase jogável.</em>
       </p>
     </td>
   </tr>
