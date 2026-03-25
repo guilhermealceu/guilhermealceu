@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/linkys-logo.png" width="100" alt="Linkys" />
+      <img src="https://runestorage.up.railway.app/uploads/logos/1773529527127-560944573.png" width="100" alt="Linkys" />
       <p>
         <a href="https://rune.discloud.app/linkys-page.html" target="_blank" style="text-decoration:none;">
           <strong>Linkys</strong>
@@ -28,7 +28,7 @@
       </p>
     </td>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/steinstracker-logo.png" width="100" alt="Steins;Tracker Project" />
+      <img src="https://runestorage.up.railway.app/uploads/logos/1772405734437-559437521.png" width="100" alt="Steins;Tracker Project" />
       <p>
         <a href="https://steinsweb.discloud.app" target="_blank" style="text-decoration:none;">
           <strong>Steins;Tracker</strong>
@@ -37,7 +37,7 @@
       </p>
     </td>
     <td align="center">
-      <img src="https://rune.discloud.app/logos/isekaitracker-logo.png" width="100" alt="Isekai;Tracker" />
+      <img src="https://runestorage.up.railway.app/uploads/logos/1772200248167-904743118.png" width="100" alt="Isekai;Tracker" />
       <p>
         <a href="https://isekaitracker.up.railway.app/" target="_blank" style="text-decoration:none;">
           <strong>Isekai;Tracker</strong>
