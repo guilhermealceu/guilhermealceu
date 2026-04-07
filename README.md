@@ -71,15 +71,13 @@
 ---
 
 ### ✉️ Contato
-💬 **RuneChat:** [https://rune.discloud.app/contact-page.html](https://rune.discloud.app/contact-page.html)  
+💬 **RuneChat:** [https://runeprojects-chat.up.railway.app](https://runeprojects-chat.up.railway.app/)  
 🔗 **LinkedIn:** [linkedin.com/in/guilhermealceu](https://linkedin.com/in/guilhermealceu)  
-📸 **Instagram:** [@guille_dill](https://www.instagram.com/guille_dill/)
+⚫ **RedeSocial:** [https://airune-social.up.railway.app](https://airune-social.up.railway.app/)  
 
 ---
 
 ### 🛠️ Ferramentas e Tecnologias
-
-#### 💻 Desenvolvimento
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -88,31 +86,18 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt506h_P4fgTygJkUEhoJq0ixR6yRCyaqlKw&s" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40"/>
-</p>
-
-#### ☁️ Cloud, DevOps e BI
-<p>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="40"/>
-</p>
-
-#### 🔒 Segurança, Infraestrutura e Monitoramento
-<p>
   <img src="https://img.icons8.com/color/512/proxmox.png" width="40"/>
   <img src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" width="40"/>
   <img src="https://wiki.setic.ro.gov.br/banco_de_imagens/icons/glpi.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/virtual-machine.png" width="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonydFVTQQ7afgEsbPqAL_-wBDkLEA9JoIKw&s" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/symantec/symantec-icon.svg" width="40"/>
   <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBV0W.ukzXlDX1OGbaYN7x9jQN7sAj24sAZm_WF46K.1azKVWNf9j9SXsDqJn4b0W8LOuGV7tg5uXz8rOCvlHglQ-&format=source" width="40"/>
   <img src="https://play-lh.googleusercontent.com/W3VsSBWwRkgu3VU4vz0AHItfbhGKlYbgqLXJAihtr-QYgMO1A3g9_eyrAbqOxANa7qc" width="40"/>
-</p>
-
-#### 🧰 Outros
-<p>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" width="40"/>
