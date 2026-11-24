@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Guilherme Dill · RUNE Projects · O tempo só para se você não evoluir!">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07070D"/>
+      <stop offset="0.55" stop-color="#0E0B1F"/>
+      <stop offset="1" stop-color="#140A2A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7B61FF"/>
+      <stop offset="0.5" stop-color="#B57BFF"/>
+      <stop offset="1" stop-color="#4FD1FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7B61FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7B61FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7B61FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B57BFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#4FD1FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <style>
+      .name { font: 700 56px 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; fill: #F4F2FF; letter-spacing: 1px; }
+      .role { font: 500 20px 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; fill: #A9A3C9; letter-spacing: 3px; }
+      .motto { font: italic 500 22px 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; fill: url(#accent); }
+      .tag { font: 600 13px 'Consolas', 'Menlo', monospace; fill: #7B61FF; letter-spacing: 4px; }
+      .spin { transform-origin: 1010px 150px; animation: spin 40s linear infinite; }
+      .spin-rev { transform-origin: 1010px 150px; animation: spin 26s linear infinite reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; transform-origin: 1010px 150px; }
+      .fade1 { opacity: 0; animation: fadeUp 0.9s ease-out 0.1s forwards; }
+      .fade2 { opacity: 0; animation: fadeUp 0.9s ease-out 0.5s forwards; }
+      .fade3 { opacity: 0; animation: fadeUp 0.9s ease-out 0.9s forwards; }
+      .bar { animation: grow 1.2s ease-out 0.3s both; transform-origin: 80px 0; }
+      .scan { animation: scan 6s ease-in-out infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.06); } }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      @keyframes scan { 0%,100% { transform: translateX(-300px); opacity: 0; } 50% { opacity: .5; } 100% { transform: translateX(1300px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect class="scan" x="0" y="0" width="220" height="300" fill="url(#beam)"/>
+
+  <!-- Runa animada -->
+  <circle class="pulse" cx="1010" cy="150" r="130" fill="url(#glow)"/>
+  <g class="spin" fill="none" stroke="#7B61FF" stroke-opacity="0.7">
+    <circle cx="1010" cy="150" r="96" stroke-width="1.5" stroke-dasharray="4 10"/>
+    <path d="M1010 54 L1093 198 L927 198 Z" stroke-width="1.5"/>
+  </g>
+  <g class="spin-rev" fill="none" stroke="#4FD1FF" stroke-opacity="0.6">
+    <circle cx="1010" cy="150" r="72" stroke-width="1.2"/>
+    <path d="M1010 246 L927 102 L1093 102 Z" stroke-width="1.2"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- R estilizado como runa -->
+    <path d="M992 112 V188 M992 112 H1022 Q1040 112 1040 130 Q1040 148 1022 148 H992 M1012 148 L1042 188"/>
+  </g>
+
+  <!-- Texto -->
+  <text class="tag fade1" x="80" y="88">RUNE PROJECTS</text>
+  <rect class="bar" x="80" y="100" width="64" height="3" rx="1.5" fill="url(#accent)"/>
+  <text class="name fade1" x="78" y="160">Guilherme Dill</text>
+  <text class="role fade2" x="80" y="198">INFRAESTRUTURA · SEGURANÇA · AUTOMAÇÃO · IA</text>
+  <text class="motto fade3" x="80" y="244">“O tempo só para se você não evoluir!”</text>
+</svg>
