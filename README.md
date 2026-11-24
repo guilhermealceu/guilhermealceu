@@ -32,11 +32,13 @@ lema:        "O tempo só para se você não evoluir!"
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/rune-lanscope"><img src="assets/projetos/rune-lanscope.jpg" width="100%" alt="rune-lanscope" /></a>
       <h3><a href="https://github.com/guilhermealceu/rune-lanscope">RUNE LanScope</a></h3>
       <p>Descobre, identifica e diagnostica os equipamentos da rede local: inventário, topologia, histórico, relatórios e IA local.</p>
       <p><code>Electron</code> <code>Nmap</code> <code>Ollama</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/zabbix-vision"><img src="assets/projetos/zabbix-vision.jpg" width="100%" alt="zabbix-vision" /></a>
       <h3><a href="https://github.com/guilhermealceu/zabbix-vision">Zabbix Vision</a></h3>
       <p>Dashboard moderno para Zabbix: topologia com impacto em cascata, flapping, correlação de eventos e previsão de incidentes.</p>
       <p><code>React</code> <code>Zabbix API</code></p>
@@ -44,11 +46,13 @@ lema:        "O tempo só para se você não evoluir!"
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/rune-map-topology"><img src="assets/projetos/rune-map-topology.jpg" width="100%" alt="rune-map-topology" /></a>
       <h3><a href="https://github.com/guilhermealceu/rune-map-topology">RUNE Map Topology</a></h3>
       <p>Gera diagramas de topologia de rede a partir de backups do pfSense, com edição manual e auditoria local.</p>
       <p><code>React</code> <code>pfSense</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/pve-backup-bridge"><img src="assets/projetos/pve-backup-bridge.jpg" width="100%" alt="pve-backup-bridge" /></a>
       <h3><a href="https://github.com/guilhermealceu/pve-backup-bridge">PVE Backup Bridge</a></h3>
       <p>Painel para vários clusters Proxmox VE: VMs, snapshots, backups sob demanda e rotinas de backup.</p>
       <p><code>Node.js</code> <code>Proxmox API</code></p>
@@ -56,11 +60,13 @@ lema:        "O tempo só para se você não evoluir!"
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/SharkAI"><img src="assets/projetos/SharkAI.jpg" width="100%" alt="SharkAI" /></a>
       <h3><a href="https://github.com/guilhermealceu/SharkAI">SharkAI</a></h3>
       <p>Analisa capturas do Wireshark: protocolos, IPs, linha do tempo, retransmissões e relatório com IA.</p>
       <p><code>TypeScript</code> <code>Groq</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/infrachat"><img src="assets/projetos/infrachat.jpg" width="100%" alt="infrachat" /></a>
       <h3><a href="https://github.com/guilhermealceu/infrachat">InfraChat</a></h3>
       <p>Pergunte em linguagem natural sobre a documentação de infraestrutura de cada cliente. IA local, documentos não saem da máquina.</p>
       <p><code>Electron</code> <code>Ollama</code> <code>OCR</code></p>
@@ -68,11 +74,13 @@ lema:        "O tempo só para se você não evoluir!"
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/pc-diagnostic-hub"><img src="assets/projetos/pc-diagnostic-hub.jpg" width="100%" alt="pc-diagnostic-hub" /></a>
       <h3><a href="https://github.com/guilhermealceu/pc-diagnostic-hub">PC Diagnostic Hub</a></h3>
       <p>Diagnóstico de hardware em tempo real com IA local: CPU, GPU, discos (SMART), bateria e processos.</p>
       <p><code>React</code> <code>SQLite</code> <code>Ollama</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/rune-infra-themes"><img src="assets/projetos/rune-infra-themes.jpg" width="100%" alt="rune-infra-themes" /></a>
       <h3><a href="https://github.com/guilhermealceu/rune-infra-themes">RUNE Infra Themes</a></h3>
       <p>Temas visuais modernos para as interfaces web do pfSense e do GLPI.</p>
       <p><code>CSS</code> <code>pfSense</code> <code>GLPI</code></p>
@@ -80,11 +88,13 @@ lema:        "O tempo só para se você não evoluir!"
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/rune-repo-council"><img src="assets/projetos/rune-repo-council.jpg" width="100%" alt="rune-repo-council" /></a>
       <h3><a href="https://github.com/guilhermealceu/rune-repo-council">RUNE Repo Council</a></h3>
       <p>Conselho de agentes de IA que revisa repositórios do GitHub: arquitetura, segurança, performance e QA.</p>
       <p><code>Multiagente</code> <code>Groq</code> <code>Ollama</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/guilhermealceu/rune-theme-factory"><img src="assets/projetos/rune-theme-factory.jpg" width="100%" alt="rune-theme-factory" /></a>
       <h3><a href="https://github.com/guilhermealceu/rune-theme-factory">RUNE Theme Factory</a></h3>
       <p>Gera temas do Chrome e todos os assets da Chrome Web Store a partir de uma imagem, já em .zip.</p>
       <p><code>Node.js</code> <code>Sharp</code></p>
